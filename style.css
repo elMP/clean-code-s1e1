@@ -32,7 +32,7 @@ body {
 .task {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 .task-row-wrapper {
   display: flex;
@@ -121,7 +121,7 @@ li > label {
   width: 226px;
 }
 li >  input[type="text"] {
-  width: 226px
+  width: 226px;
 }
 button.delete img {
   height: 2em;
